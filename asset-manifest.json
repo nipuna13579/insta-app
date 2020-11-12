@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/insta-app/static/css/main.f2716bf9.chunk.css",
-    "main.js": "/insta-app/static/js/main.c4fec893.chunk.js",
-    "main.js.map": "/insta-app/static/js/main.c4fec893.chunk.js.map",
+    "main.js": "/insta-app/static/js/main.b39487d5.chunk.js",
+    "main.js.map": "/insta-app/static/js/main.b39487d5.chunk.js.map",
     "runtime-main.js": "/insta-app/static/js/runtime-main.2a5734f1.js",
     "runtime-main.js.map": "/insta-app/static/js/runtime-main.2a5734f1.js.map",
     "static/js/2.707bcf69.chunk.js": "/insta-app/static/js/2.707bcf69.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.2a5734f1.js",
     "static/js/2.707bcf69.chunk.js",
     "static/css/main.f2716bf9.chunk.css",
-    "static/js/main.c4fec893.chunk.js"
+    "static/js/main.b39487d5.chunk.js"
   ]
 }
